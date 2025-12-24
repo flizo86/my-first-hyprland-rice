@@ -1,2 +1,3 @@
-# my-first-hyprland-rice
+# My 1st Hyprland
+
 My first Hyprland Rice
