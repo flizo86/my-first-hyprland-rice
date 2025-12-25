@@ -1,1 +1,1 @@
-stow -d ~/Projects/my-first-hyprland-rice/ -t ~/ dotfiles
+stow -d ~/Projects/flizo86hypr-1/ -t ~/ dotfiles
